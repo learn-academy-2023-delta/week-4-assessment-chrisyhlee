@@ -55,3 +55,5 @@ const dataTypesArray2 = ["string", "null", "Boolean", "string", "undefined"]
 // b) Create the function that makes the test pass.
 
 // Pseudo code:
+
+// testing
