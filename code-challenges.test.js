@@ -57,4 +57,4 @@ const dataTypesArray2 = ["string", "null", "Boolean", "string", "undefined"]
 // Pseudo code:
 
 // testing
-// stash test
+// stash test 2
